@@ -1,0 +1,11 @@
+C:\Users\JUN\source\repos\UDP_Recv\UDP_Recv\bin\Debug\UDP_Recv.exe.config
+C:\Users\JUN\source\repos\UDP_Recv\UDP_Recv\bin\Debug\UDP_Recv.exe
+C:\Users\JUN\source\repos\UDP_Recv\UDP_Recv\bin\Debug\UDP_Recv.pdb
+C:\Users\JUN\source\repos\UDP_Recv\UDP_Recv\obj\Debug\UDP_Recv.csproj.AssemblyReference.cache
+C:\Users\JUN\source\repos\UDP_Recv\UDP_Recv\obj\Debug\UDP_Recv.csproj.SuggestedBindingRedirects.cache
+C:\Users\JUN\source\repos\UDP_Recv\UDP_Recv\obj\Debug\UDP_Recv.Form1.resources
+C:\Users\JUN\source\repos\UDP_Recv\UDP_Recv\obj\Debug\UDP_Recv.Properties.Resources.resources
+C:\Users\JUN\source\repos\UDP_Recv\UDP_Recv\obj\Debug\UDP_Recv.csproj.GenerateResource.cache
+C:\Users\JUN\source\repos\UDP_Recv\UDP_Recv\obj\Debug\UDP_Recv.csproj.CoreCompileInputs.cache
+C:\Users\JUN\source\repos\UDP_Recv\UDP_Recv\obj\Debug\UDP_Recv.exe
+C:\Users\JUN\source\repos\UDP_Recv\UDP_Recv\obj\Debug\UDP_Recv.pdb
